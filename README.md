@@ -43,3 +43,7 @@ This script simulates a data stream by reading a CSV file (`ticker.csv`) and wri
 - requests
 
 Make sure to install the required dependencies before running the scripts.
+
+![image](https://github.com/SharmilaKamalakannan/live_dashboard_-_data_streaming/assets/110477268/5d224c3f-f8b4-4b3a-b010-1f7665f809f2)
+
+![Screenshot 2024-03-29 214358](https://github.com/SharmilaKamalakannan/live_dashboard_-_data_streaming/assets/110477268/de444a35-0e76-44c5-93c1-4f6f25c1c484)
